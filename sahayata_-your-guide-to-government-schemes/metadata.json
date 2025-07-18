@@ -1,0 +1,8 @@
+
+{
+  "name": "Sahayata: Your Guide to Government Schemes",
+  "description": "An accessible application to help people with disabilities discover, understand, and access government schemes, entitlements, and services tailored to their needs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
