@@ -1,14 +1,12 @@
 # Sahayata.AI
-HackAthon project#1
+HackAthon project #1 #NextStep Hacks 2025
 
 # Run and deploy Sahayata.AI
-
 This contains everything you need to run your app locally.
 
 ## Run Locally
-
-**Prerequisites:**  Node.js
-
+**Prerequisites:**  
+Node.js
 
 1. Install dependencies:
    `npm install`
